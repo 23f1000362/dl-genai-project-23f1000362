@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+*.csv
+*.h5
+*.pt
+*.bin
+.ipynb_checkpoints/
+*.pkl
